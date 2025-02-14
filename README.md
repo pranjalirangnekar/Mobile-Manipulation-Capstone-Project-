@@ -1,9 +1,45 @@
-This GitHub repository contains the comprehensive work done on the Mobile Manipulation Capstone project as part of the "Modern Robotics" Coursera Specialization offered by Northwestern University. This capstone project focuses on the design and implementation of a mobile manipulator robot named the youBot. The project's main goal is to autonomously control the youBot to achieve specific tasks such as navigating a virtual environment, picking up, and relocating a block using a sophisticated trajectory.
+# 🚀 Mobile Manipulation Capstone Project
 
-Leveraging the Modern Robotics code library, the project integrates various robotic principles including kinematics, dynamics, and control. The robot is programmed to calculate and execute a path that allows it to approach the block, adjust its manipulator for optimal grip, and transport the block to a new location while avoiding obstacles.
+This **GitHub repository** contains the **comprehensive work** completed for the **Mobile Manipulation Capstone Project**, part of the **"Modern Robotics" Specialization** offered by **Northwestern University** on **Coursera**.
 
-The culmination of the project is the generation of a CSV file capturing the youBot's configurations at different timestamps, which drives the simulation in the CoppeliaSim environment to demonstrate the robot's task execution capabilities effectively. The repository also includes detailed documentation and code, providing insights into the computational approaches and algorithms utilized to control the youBot.
+This project focuses on designing and implementing a **mobile manipulator robot** named **youBot**, which autonomously performs tasks such as:
+- **Navigating a virtual environment**  
+- **Picking up and relocating a block**  
+- **Following a sophisticated trajectory**  
 
-https://github.com/pranjalirangnekar/Mobile-Manipulation-Capstone-Project-/blob/main/RESULT.gif 
+---
 
-For further information and a deeper understanding of the project's scope and technicalities, please visit the Northwestern Mechatronics Wiki project page.
+## 🔹 **Project Overview**
+This project integrates multiple robotic principles using the **Modern Robotics Code Library**:
+
+✅ **Kinematics** – Calculates joint positions and orientations.  
+✅ **Dynamics** – Ensures smooth motion through force and torque calculations.  
+✅ **Control** – Executes precise trajectories for manipulation tasks.  
+
+The robot is programmed to:
+1. **Identify & approach a block**
+2. **Adjust its manipulator for an optimal grip**
+3. **Transport the block to a target location**
+4. **Avoid obstacles** while moving
+
+The project concludes with a **CSV file** that captures the **youBot’s configurations** at various timestamps. This data is used in **CoppeliaSim** to demonstrate real-time task execution.
+
+---
+
+## 🎥 **Simulation Demo**
+Below is a visualization of the youBot executing the planned trajectory in **CoppeliaSim**:
+
+![youBot Simulation](https://github.com/pranjalirangnekar/Mobile-Manipulation-Capstone-Project-/blob/main/RESULT.gif)
+
+---
+
+## 📌 **Key Features**
+🔹 **End-to-end mobile manipulation framework**  
+🔹 **Automated object pickup and placement**  
+🔹 **Path planning & obstacle avoidance**  
+🔹 **Integration with the Modern Robotics Code Library**  
+🔹 **Simulation in CoppeliaSim**  
+
+---
+
+## 📂 **Repository Structure**
