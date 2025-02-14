@@ -42,4 +42,3 @@ Below is a visualization of the youBot executing the planned trajectory in **Cop
 
 ---
 
-## 📂 **Repository Structure**
